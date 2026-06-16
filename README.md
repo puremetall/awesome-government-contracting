@@ -84,6 +84,7 @@ for details on registration and commodity codes):
 ## Tools
 
 - [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [Government Contracting Research Agent](https://superhighway.walls.sh/guides/govcon-research-agent) — Python tutorial for an agent that researches federal opportunities from live web data (SAM.gov, FPDS, USAspending, NAICS, set-asides) into a structured JSON briefing.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
