@@ -7,7 +7,7 @@ information is scattered across hundreds of portals, programs, and regulations. 
 list collects the best free and open resources in one place, for businesses, developers,
 and researchers working with public-sector procurement.
 
-Maintained by the team behind [CivicContracts](https://www.civiccontracts.com) — government
+Maintained by the team behind [Civic AI](https://www.civiccontracts.com) — government
 contract intelligence that lets you search federal, state, and local opportunities in
 plain English.
 
@@ -65,7 +65,7 @@ for details on registration and commodity codes):
 - [USAspending API](https://api.usaspending.gov/) — free REST API for federal award data.
 - [SAM.gov API](https://open.gsa.gov/api/) — entity, opportunity, and exclusion data.
 - [Data.gov Procurement](https://catalog.data.gov/dataset?q=procurement) — assorted open procurement datasets.
-- [CivicContracts open data client](https://github.com/puremetall/civiccontracts-data) — Python + TypeScript client wrapping public contract data.
+- [Civic AI open data client](https://github.com/puremetall/civiccontracts-data) — Python + TypeScript client wrapping public contract data.
 
 ## Small Business & Set-Aside Programs
 
@@ -83,7 +83,7 @@ for details on registration and commodity codes):
 
 ## Tools
 
-- [CivicContracts](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
@@ -96,7 +96,7 @@ for details on registration and commodity codes):
 
 ## Guides
 
-Long-form, free guides maintained by CivicContracts:
+Long-form, free guides maintained by Civic AI:
 
 - [How to find government contracts to bid on](https://www.civiccontracts.com/blog/how-to-find-government-contracts)
 - [How to register in SAM.gov](https://www.civiccontracts.com/blog/how-to-register-in-sam-gov)
