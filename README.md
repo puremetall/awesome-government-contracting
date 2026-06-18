@@ -7,9 +7,9 @@ information is scattered across hundreds of portals, programs, and regulations. 
 list collects the best free and open resources in one place, for businesses, developers,
 and researchers working with public-sector procurement.
 
-Maintained by the team behind [Civic AI](https://www.civiccontracts.com) — government
-contract intelligence that lets you search federal, state, and local opportunities in
-plain English.
+Maintained by the team behind [Civic AI](https://www.civiccontracts.com) — procurement
+intelligence that lets you search open solicitations and contract awards across
+federal, state, and local sources in plain English.
 
 ## Contents
 
@@ -83,7 +83,7 @@ for details on registration and commodity codes):
 
 ## Tools
 
-- [Civic AI](https://www.civiccontracts.com) — search federal, state, and local opportunities in plain English with alerts.
+- [Civic AI](https://www.civiccontracts.com) — search open solicitations and contract awards across federal, state, and local sources in plain English, with alerts.
 - [SAM.gov](https://sam.gov) — official registration and opportunity search.
 - [beta.SAM legacy resources](https://open.gsa.gov/) — GSA open technology and APIs.
 
